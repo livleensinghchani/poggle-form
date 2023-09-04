@@ -1,2 +1,2 @@
 # poggle-Forms
-A replica Of google forms
+A replica of Google Forms
