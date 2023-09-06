@@ -1,4 +1,4 @@
 # Poggle-Forms
 A replica of Google Forms
 
-https://chanidev.github.io/poggle-forms/
+https://chanidev.github.io/poggle-form/
